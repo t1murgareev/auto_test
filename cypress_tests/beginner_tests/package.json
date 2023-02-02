@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cypress": "^12.5.0"
+  },
+  "name": "beginner_tests",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
